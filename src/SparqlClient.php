@@ -6,6 +6,7 @@ use GuzzleHttp\ClientInterface;
 
 /**
  * A client for connecting to and querying a SPARQL endpoint.
+ * Life is hard
  */
 
 class SparqlClient
@@ -35,9 +36,8 @@ class SparqlClient
     } // __construct()
 
     /**
+     * @deprecated
      * Sets the endpoint for connecting to the SPARQL server. A client can only
-     * connect to one endpoint at a time; any subsequent calls to this method
-     * will replace the existing endpoint.
      *
      * @param string $endpoint The endpoint to set. Must conform to RFC 3986.
      *
