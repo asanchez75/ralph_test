@@ -1,3 +1,8 @@
+#DISCLAIMER : this is a demo repository for testing purposes.
+
+#************************************
+
+
 # Ralph
 
 **R**DF **A**bstraction **L**ayer for **PH**P: A simple SPARQL client built on top of Guzzle.
