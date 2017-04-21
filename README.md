@@ -1,5 +1,14 @@
 # this is a demo for testing purpose
+=======
+#DISCLAIMER : this is a demo repository for testing purposes.
+
+#************************************
+
+
 # Ralph
+
+# Ali
+#this  is a demo repo for testing purposes.
 
 **R**DF **A**bstraction **L**ayer for **PH**P: A simple SPARQL client built on top of Guzzle.
 

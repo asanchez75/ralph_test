@@ -3,3 +3,4 @@ Thomas Lerchundi
 ## Current Maintainers
 
 - John J. Rivera
+- Kirill Nikolnikov
