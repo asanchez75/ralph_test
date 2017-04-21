@@ -3,4 +3,4 @@
 ## Current Maintainers
 
 - John J. Rivera
-- Alireza MOUSSAEI
+- Kirill Nikolnikov
