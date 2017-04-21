@@ -4,3 +4,4 @@ Thomas Lerchundi
 
 - John J. Rivera
 - Kirill Nikolnikov
+new line by Thomas
